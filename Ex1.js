@@ -1,2 +1,2 @@
 const idade = 18
-Console.log (idade)
+console.log (idade)
