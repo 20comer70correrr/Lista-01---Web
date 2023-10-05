@@ -7,4 +7,4 @@ const subtração = numero1 - numero2
 const multiplicação = numero1 * numero2
 const divisao = numero1 / numero2
 //
-Console.log (soma, subtração, multiplicação, divisao)
+console.log (soma, subtração, multiplicação, divisao)
